@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "bites=0": {
+      "model": "carrotcake:block/carrotcake"
+    },
+    "bites=1": {
+      "model": "carrotcake:block/carrotcake_slice1"
+    },
+    "bites=2": {
+      "model": "carrotcake:block/carrotcake_slice2"
+    },
+    "bites=3": {
+      "model": "carrotcake:block/carrotcake_slice3"
+    },
+    "bites=4": {
+      "model": "carrotcake:block/carrotcake_slice4"
+    },
+    "bites=5": {
+      "model": "carrotcake:block/carrotcake_slice5"
+    },
+    "bites=6": {
+      "model": "carrotcake:block/carrotcake_slice6"
+    }
+  }
+}
